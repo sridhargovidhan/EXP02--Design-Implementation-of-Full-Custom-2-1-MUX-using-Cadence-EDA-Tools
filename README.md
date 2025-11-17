@@ -1,4 +1,3 @@
-## Sridhar G(212223060271)
 # Ex No: 02 - Design & Implementation of Full Custom 2:1 MUX using Cadence EDA Tools
 
 ## Aim
@@ -44,23 +43,22 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 ## Circuit Diagram
 
 ### 1. Schematic of Full Custom 2:1 MUX
-<img width="1920" height="1080" alt="Screenshot 2025-09-30 111653" src="https://github.com/user-attachments/assets/04b468b7-e0c9-42b7-98f0-7c56f23c99c2" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-27 002917" src="https://github.com/user-attachments/assets/396c9ba0-ab61-40c3-8059-f02f380ffb6a" />
 
 
 
 ### 2. Transient Response Setup
-<img width="613" height="730" alt="image" src="https://github.com/user-attachments/assets/aae3e847-8487-446e-acba-57b68492c43b" />
+
+<img width="863" height="631" alt="Screenshot 2025-09-27 002905" src="https://github.com/user-attachments/assets/861b005b-52b7-48e4-8307-51ff965081b6" />
 
 
-
-
-<img width="1920" height="1080" alt="Screenshot 2025-09-30 114709" src="https://github.com/user-attachments/assets/0f5c3a93-6488-49ae-8d86-c468533b6a72" />
 
 
 ## Output
 
 ### 1. Transient Analysis Output
-<img width="1920" height="1080" alt="ex02 4" src="https://github.com/user-attachments/assets/df1c9fca-92d8-4f38-a792-ac98c65bbdcc" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-27 001120" src="https://github.com/user-attachments/assets/a89a918c-3d61-4915-b957-6dd10519952d" />
+
 
 
 ## Results
